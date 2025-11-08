@@ -45,7 +45,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>Anamitra Musib 32ce3337</title>
+<title>8396fabc</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
@@ -88,4 +88,5 @@ if ( $human == -1 ) {
 </pre>
 </div>
 </body>
+
 </html>
