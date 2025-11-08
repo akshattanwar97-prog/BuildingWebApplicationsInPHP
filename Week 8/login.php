@@ -28,7 +28,7 @@ if ( isset($_POST['who']) && isset($_POST['pass']) ) {
 <html>
 <head>
 <?php require_once "bootstrap.php"; ?>
-<title>Anamitra Musib 32ce3337</title>
+<title>8396fabc</title>
 </head>
 <body>
 <div class="container">
@@ -55,4 +55,5 @@ in the HTML comments.
 <!-- Hint: The password is the 3  character language we are learning (all lower case) followed by 123. -->
 </p>
 </div>
+
 </body>
